@@ -1,0 +1,10 @@
+{
+  "server": {
+    "baseDir": ["./src", "./build/contracts"]
+  },
+     
+  "port": 7545,
+  "host": "0.0.0.0"
+}
+
+
