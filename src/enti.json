@@ -1,0 +1,57 @@
+[{
+        "id": 0,
+        "name": "American Red Cross",
+        "logo": "/images/american-red-cross.jpg",
+        "mission": "To prevent and alleviate human suffering in the face of emergencies by mobilizing the power of volunteers and the generosity of donors.",
+        "location": "Washington, D.C., USA",
+        "publicKey": "0xb8FC297234D4Df70184A86eD295428B1283e95e8"
+    },
+    {
+        "id": 1,
+        "name": "Doctors Without Borders",
+        "logo": "/images/doctors-without-borders.jpg",
+        "mission": "To provide medical assistance to people affected by conflict, epidemics, disasters, or exclusion from health care.",
+        "location": "New York, NY, USA",
+        "publicKey": "0xde4cd4266a6Da4FDCc4a7da5d07E99da9809f90f"
+    },
+    {
+        "id": 2,
+        "name": "UNICEF",
+        "logo": "/images/unicef.jpg",
+        "mission": "To ensure that every child has a childhood, protected from violence, exploitation, and AIDS, and able to develop to his or her full potential.",
+        "location": "New York, NY, USA",
+        "publicKey": "0x7d5c751be449768697BE7eE632b541739451861C"
+    },
+    {
+        "id": 3,
+        "name": "Save the Children",
+        "logo": "/images/save-the-children.jpg",
+        "mission": "To inspire breakthroughs in the way the world treats children and to achieve immediate and lasting change in their lives.",
+        "location": "Fairfield, CT, USA",
+        "publicKey": "0xFdBc39F716AEd24556eE16B3dFf032377C834115"
+    },
+    {
+        "id": 4,
+        "name": "World Food Programme",
+        "logo": "images/wfp.jpg",
+        "mission": "The mission is to end global hunger by providing food assistance to those in need, and working with communities to improve nutrition and build resilience.",
+        "location": "Rome, Italy",
+        "publicKey": "0x8AA7b1B6bF639AADfdEF0B1f7fFe6fa6c72acd90"
+    },
+    {
+        "id": 5,
+        "name": "Make A Wish",
+        "logo": "images/make-a-wish.jpg",
+        "mission": "The mission of the foundation is to bring joy, hope and strength to children facing life-threatening medical conditions through the power of a wish granted.",
+        "location": "Phoenix, AZ, USA",
+        "publicKey": "0x6E36Bf8A7b9FE511C63DBA3829a27bd96ec8715d"
+    },
+    {
+        "id": 6,
+        "name": "Amnesty International",
+        "logo": "/images/amnesty-international.jpg",
+        "mission": "To undertake research and action focused on preventing and ending grave abuses of the rights to physical and mental integrity, freedom of conscience and expression, and freedom from discrimination, within the context of its work to promote all human rights.",
+        "location": "London, UK",
+        "publicKey": "0x861fe0681aFc48226ce30ee1ADC52ce8c1da64C3"
+    }
+]
